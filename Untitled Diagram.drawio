@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T00:50:57.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bTer5GzvSi_zNuZxhAL2" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T02:59:41.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="jaVv5-o-_y76Q7vpatbY" version="15.6.2" type="github">
   <diagram id="tTZQnLZp_0nOnSHctbVT" name="Page-1">
     <mxGraphModel dx="2272" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -468,22 +468,22 @@
         <mxCell id="NOGB8sof3bpYw1vw8qVy-1" value="furnace" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="15" y="180" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="NOGB8sof3bpYw1vw8qVy-4" value="generator" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
+        <mxCell id="NOGB8sof3bpYw1vw8qVy-4" value="&lt;a href=&quot;https://ark.fandom.com/wiki/Electrical_Generator&quot;&gt;generator&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="600" y="340" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="NOGB8sof3bpYw1vw8qVy-8" value="fridge" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
+        <mxCell id="NOGB8sof3bpYw1vw8qVy-8" value="&lt;a href=&quot;https://ark.fandom.com/wiki/Refrigerator&quot;&gt;fridge&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="460" y="340" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="NOGB8sof3bpYw1vw8qVy-18" value="raw metal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="20" y="67.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NOGB8sof3bpYw1vw8qVy-51" value="chembench" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
+        <mxCell id="NOGB8sof3bpYw1vw8qVy-51" value="&lt;a href=&quot;https://ark.fandom.com/wiki/Chemistry_Bench&quot;&gt;chembench&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="30" y="340" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="NOGB8sof3bpYw1vw8qVy-52" value="industrial&lt;br&gt;furnace" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
+        <mxCell id="NOGB8sof3bpYw1vw8qVy-52" value="&lt;a href=&quot;https://ark.fandom.com/wiki/Industrial_Forge&quot;&gt;industrial&lt;br&gt;furnace&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="170" y="340" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="NOGB8sof3bpYw1vw8qVy-53" value="industrial&lt;br&gt;cookpot" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
+        <mxCell id="NOGB8sof3bpYw1vw8qVy-53" value="&lt;a href=&quot;https://ark.fandom.com/wiki/Industrial_Cooker&quot;&gt;industrial&lt;br&gt;cookpot&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="320" y="340" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="NOGB8sof3bpYw1vw8qVy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NOGB8sof3bpYw1vw8qVy-73" source="NOGB8sof3bpYw1vw8qVy-55" target="NOGB8sof3bpYw1vw8qVy-1" edge="1">
@@ -541,7 +541,7 @@
         <mxCell id="NOGB8sof3bpYw1vw8qVy-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="NOGB8sof3bpYw1vw8qVy-73" source="NOGB8sof3bpYw1vw8qVy-68" target="NOGB8sof3bpYw1vw8qVy-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NOGB8sof3bpYw1vw8qVy-68" value="fabricator&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22furnace%22%20style%3D%22shape%3Dhexagon%3Bperimeter%3DhexagonPerimeter2%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-635%22%20y%3D%22325%22%20width%3D%22130%22%20height%3D%2275%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
+        <mxCell id="NOGB8sof3bpYw1vw8qVy-68" value="&lt;a href=&quot;https://ark.fandom.com/wiki/Fabricator&quot;&gt;fabricator&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22furnace%22%20style%3D%22shape%3Dhexagon%3Bperimeter%3DhexagonPerimeter2%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-635%22%20y%3D%22325%22%20width%3D%22130%22%20height%3D%2275%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/a&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="NOGB8sof3bpYw1vw8qVy-73" vertex="1">
           <mxGeometry x="325" y="180" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="NOGB8sof3bpYw1vw8qVy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NOGB8sof3bpYw1vw8qVy-73" source="NOGB8sof3bpYw1vw8qVy-71" target="NOGB8sof3bpYw1vw8qVy-72" edge="1">
